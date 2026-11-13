@@ -1,0 +1,1 @@
+Ouvrez index.html dans Edge ou Chrome. Cliquez sur Lecture pour démarrer la narration française et le défilement automatique. Les six œuvres tournent en boucle à droite pendant les textes à gauche. Pour GitHub Pages, téléversez tous les fichiers à la racine du dépôt.
